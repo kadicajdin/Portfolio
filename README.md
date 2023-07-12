@@ -7,9 +7,7 @@
 - [Examples of my work](#examples-of-my-work)
   * [Test cases and work in Zephyr Scale](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-
+  
 ## About me
 
 Quality Assurance who brings a unique blend of skills and qualities to the team. With a positive-thinking mindset, I set the tone for a highly productive and collaborative work environment, inspiring colleagues to excel and achieve their best.
